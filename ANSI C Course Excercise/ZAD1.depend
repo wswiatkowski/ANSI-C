@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1383647114 source:c:\users\266494\desktop\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zbiory.h"
+
+1383647076 c:\users\266494\desktop\zad1\zbiory.h
+
+1383649110 source:c:\users\266494\desktop\zad1\zbiory.c
+	<stdio.h>
+	"zbiory.h"
+	<limits.h>
+
